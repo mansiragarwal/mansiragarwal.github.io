@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/mansiragarwal.github.io/static/css/main.6ede2b54.chunk.css",
+    "main.js": "/mansiragarwal.github.io/static/js/main.4ff0854d.chunk.js",
+    "main.js.map": "/mansiragarwal.github.io/static/js/main.4ff0854d.chunk.js.map",
+    "runtime-main.js": "/mansiragarwal.github.io/static/js/runtime-main.95e8f260.js",
+    "runtime-main.js.map": "/mansiragarwal.github.io/static/js/runtime-main.95e8f260.js.map",
+    "static/js/2.5ce3814e.chunk.js": "/mansiragarwal.github.io/static/js/2.5ce3814e.chunk.js",
+    "static/js/2.5ce3814e.chunk.js.map": "/mansiragarwal.github.io/static/js/2.5ce3814e.chunk.js.map",
+    "static/js/3.7baa48c5.chunk.js": "/mansiragarwal.github.io/static/js/3.7baa48c5.chunk.js",
+    "static/js/3.7baa48c5.chunk.js.map": "/mansiragarwal.github.io/static/js/3.7baa48c5.chunk.js.map",
+    "index.html": "/mansiragarwal.github.io/index.html",
+    "static/css/main.6ede2b54.chunk.css.map": "/mansiragarwal.github.io/static/css/main.6ede2b54.chunk.css.map",
+    "static/js/2.5ce3814e.chunk.js.LICENSE.txt": "/mansiragarwal.github.io/static/js/2.5ce3814e.chunk.js.LICENSE.txt",
+    "static/media/After.6bd916ae.png": "/mansiragarwal.github.io/static/media/After.6bd916ae.png",
+    "static/media/Before.9d7d9324.png": "/mansiragarwal.github.io/static/media/Before.9d7d9324.png",
+    "static/media/Home.812d83ac.png": "/mansiragarwal.github.io/static/media/Home.812d83ac.png",
+    "static/media/InterviewInsight.78ad7190.png": "/mansiragarwal.github.io/static/media/InterviewInsight.78ad7190.png",
+    "static/media/Mobile-Records-3.99e8851f.png": "/mansiragarwal.github.io/static/media/Mobile-Records-3.99e8851f.png",
+    "static/media/Mobile-Records.bcbafaf5.png": "/mansiragarwal.github.io/static/media/Mobile-Records.bcbafaf5.png",
+    "static/media/Reports.89469e2f.png": "/mansiragarwal.github.io/static/media/Reports.89469e2f.png",
+    "static/media/afterPersona.2821bf4f.png": "/mansiragarwal.github.io/static/media/afterPersona.2821bf4f.png",
+    "static/media/blackroyalart_vector.f9e463aa.png": "/mansiragarwal.github.io/static/media/blackroyalart_vector.f9e463aa.png",
+    "static/media/me.3efa8bfa.png": "/mansiragarwal.github.io/static/media/me.3efa8bfa.png",
+    "static/media/optitex.d1f6ad26.jpg": "/mansiragarwal.github.io/static/media/optitex.d1f6ad26.jpg",
+    "static/media/pinnedRecords.b4c0efe5.png": "/mansiragarwal.github.io/static/media/pinnedRecords.b4c0efe5.png",
+    "static/media/pinnedVisits.a7512700.png": "/mansiragarwal.github.io/static/media/pinnedVisits.a7512700.png",
+    "static/media/screenshot.51d2682e.png": "/mansiragarwal.github.io/static/media/screenshot.51d2682e.png",
+    "static/media/slanted.bd79224c.png": "/mansiragarwal.github.io/static/media/slanted.bd79224c.png",
+    "static/media/straight.2f5026ec.png": "/mansiragarwal.github.io/static/media/straight.2f5026ec.png",
+    "static/media/wayq.6233443b.png": "/mansiragarwal.github.io/static/media/wayq.6233443b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95e8f260.js",
+    "static/js/2.5ce3814e.chunk.js",
+    "static/css/main.6ede2b54.chunk.css",
+    "static/js/main.4ff0854d.chunk.js"
+  ]
+}
